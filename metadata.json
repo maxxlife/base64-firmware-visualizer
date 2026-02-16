@@ -1,0 +1,5 @@
+{
+  "name": "Base64 Firmware Visualizer",
+  "description": "Interactive visualization of Base64 encoding at the bit-level, tailored for embedded systems engineers.",
+  "requestFramePermissions": []
+}
